@@ -1,10 +1,10 @@
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 In this activity, I am adding bootstrap components to my porfolio to ensure a responsive design for multiple platforms.
 
-## Short descriptions of what I did
+## Short Descriptions of Accomplished Work
 * Created the following pages: index.html, portfolio.html and contact.html.
 
-* Using Bootstrap, recreate your portfolio site with the following items:
+* Using Bootstrap, recreated my portfolio site with the following items:
 
 * A navbar
 
@@ -12,4 +12,4 @@ In this activity, I am adding bootstrap components to my porfolio to ensure a re
 
 * Responsive images
 
-* The Bootstrap portfolio should minimize the use of media queries.
+* The Bootstrap portfolio minimized the use of media queries.
